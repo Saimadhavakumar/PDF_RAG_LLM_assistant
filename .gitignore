@@ -4,3 +4,4 @@ __pycache__/
 embeddings/
 *.pkl
 config.py
+*.pdf
